@@ -1,17 +1,8 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-
-# artifacts
-
-# Virtual environments
-.venv
-
-# Log files (but keep the logs directory structure)
-logs/*.log
-logs/**/*.log
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
